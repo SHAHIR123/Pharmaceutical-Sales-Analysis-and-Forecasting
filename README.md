@@ -18,6 +18,7 @@ The dataset is built from the initial dataset consisted of 600000 transactional 
 -    N05C - Psycholeptics drugs, Hypnotics and sedatives drugs
 -    R03 - Drugs for obstructive airway diseases
 -    R06 - Antihistamines for systemic use
+-    
 Sales data are resampled to the daily and weekly periods. Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.
 
 
